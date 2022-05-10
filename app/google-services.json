@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "768827294693",
+    "firebase_url": "https://ch24-shoppingapp-default-rtdb.firebaseio.com",
+    "project_id": "ch24-shoppingapp",
+    "storage_bucket": "ch24-shoppingapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:768827294693:android:377b53363afdb82cc6a50c",
+        "android_client_info": {
+          "package_name": "com.bluemoonl.ch24shoppingapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "768827294693-fe0qbab1nfb1lqp3chud2qamglhb1i9j.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.bluemoonl.ch24shoppingapp",
+            "certificate_hash": "511e86c70b4c7055c3370ff7e0e0a4a48f48c546"
+          }
+        },
+        {
+          "client_id": "768827294693-fj9er8li1q994fnl1ql5m5fcr9gu8t3o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAsATjd974x2szkQFRhiSqTaq1e7j8hJl0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "768827294693-fj9er8li1q994fnl1ql5m5fcr9gu8t3o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
